@@ -6,6 +6,7 @@ first basic html page is one of the first tutorials from the Udemy course Colt S
   - Different headings
   - Inline styling
   - Ordered and Unordered lists
+  - Using Lorem Ipsum(random text generator)
 
 # Built With
 Sublime text editor
